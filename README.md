@@ -1,0 +1,1 @@
+# automated-devsecops-quality-gate
